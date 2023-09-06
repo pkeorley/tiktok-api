@@ -1,0 +1,8 @@
+TikTokApi
+playwright
+python-dotenv
+matplotlib
+networkx
+scipy
+flask
+mpld3
